@@ -1,2 +1,2 @@
 # Want2Tribute
-Repository for the ones who want to Contribute
+README.md edited (ver.2025.06.10)
